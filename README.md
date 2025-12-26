@@ -1,7 +1,26 @@
-## Hi there 👋
+<h1>Hi, I'm LaShea! </h1>
+
+<h2>👨‍💻 I.T. Projects:</h2>
+
+<b>Control your PS5 console from a Windows PC</b>
+  - [Installing Remote Play for PS5](https://github.com/Lasheawil/LABURL)
+   
+<b>OS TIcket</b>
+  - [Installing OS Ticket](https://github.com/Lasheawil/LABURL)
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**Lasheawil/Lasheawil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
