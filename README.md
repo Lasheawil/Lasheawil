@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 I.T. Projects:</h2>
 
-<b>OS Ticket</b
-  - [Installing OS Ticket] (https://github.com/Lasheawil/LABURL)
+<b>OS Ticket</b>
+  - [Installing OS Ticket](https://github.com/Lasheawil/LABURL)
   
 <b>Control your PS5 console from a Windows PC</b>
-  - [Installing Remote Play for PS5](https://github.com/Lasheawil/Remote-Play-PS5-Lab/blob/main/README.md
+  - [Installing Remote Play for PS5](https://github.com/Lasheawil/Remote-Play-PS5-Lab/blob/main/README.md)
    
 
 
