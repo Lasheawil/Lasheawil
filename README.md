@@ -1,9 +1,9 @@
 <h1>Hi, I'm LaShea! </h1>
 
-<h2>👨‍💻 I.T. Projects:</h2>
+<h2>👨‍💻 IT Projects:</h2>
 
-<b>OS Ticket</b>
-  - [Installing OS Ticket](https://github.com/Lasheawil/LABURL)
+<b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/Lasheawil/LABURL)
   
 <b>Control your PS5 console from a Windows PC</b>
   - [Installing PS Remote Play for PS5](https://github.com/Lasheawil/Remote-Play-PS5-Lab/blob/main/README.md)
