@@ -4,6 +4,7 @@
 
 <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Lasheawil/osTicket-prerequisites)
+  - [osTicket: Post-Installation Configuration]
   
 <b>Control your PS5 console from a Windows PC</b>
   - [Installing PS Remote Play for PS5](https://github.com/Lasheawil/Remote-Play-PS5-Lab/blob/main/README.md)
