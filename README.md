@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
+<b>Active Directory (Active Directory Home Lab)</b>
+
 <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Lasheawil/osTicket-prerequisites)
   - [osTicket: Post-Installation Configuration](https://github.com/Lasheawil/osTicket-Postinstall-Config)
