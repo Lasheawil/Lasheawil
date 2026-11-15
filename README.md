@@ -3,6 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 <b>Active Directory (Active Directory Home Lab)</b>
+- [Configuring On-premises Active Directory within Azure VMs](https://github.com/Lasheawil/Active-Directory-Lab/tree/main)
 
 <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Lasheawil/osTicket-prerequisites)
