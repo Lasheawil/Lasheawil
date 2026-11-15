@@ -1,6 +1,6 @@
 <h1>Hi, I'm LaShea! </h1>
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
 <b>Active Directory (Active Directory Home Lab)</b>
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Lasheawil/Active-Directory-Lab/tree/main)
